@@ -8,33 +8,27 @@
 
 - 🌱 I’m currently learning **Python**
 
-- ## 📬 Contact Me - +880 1765-245872
+- ## 📬 Contact Me - +91 9679403645
 
 - 👯 I’m looking to collaborate on [WASender v4 Update](https://github.com/engrshuvodas/WASender-v4-Update)
 
 - 👨‍💻 All of my projects are available at [https://engrshuvodas.github.io/me/](https://engrshuvodas.github.io/me/)
 
-- 📝 I regularly write articles on [https://www.facebook.com/engr.shuvo74886/](https://www.facebook.com/engr.shuvo74886/)
+- 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100012917976003](https://www.facebook.com/profile.php?id=100012917976003)
 
 - 💬 Ask me about **Of course! Let's start with a general question: Can you tell me about an example of a hobby or activity you're passionate about?**
 
-- 📫 How to reach me **engrshuvoda@gmail.com**
+- 📫 How to reach me **avijeetroy072@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/engrshuvoda](https://www.linkedin.com/in/engrshuvoda/)
-
-## 📬 Contact Me Instantly (No Login Needed)
-
-[![Send me a message — click here](https://img.shields.io/badge/Send%20me%20a%20message-Click%20Here-brightgreen?style=for-the-badge)](https://engrshuvodas.github.io/Submit-Text-to-Shuvo/)
-
-*Just hit the badge above and drop any text — no login required! Your message reaches me directly.*
+- 📄 Know about my experiences [linkedin.com/in/avijeet-kumar-roy](https://www.linkedin.com/in/avijeet-kumar-roy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/21494111/shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/21494111/shuvo" height="30" width="40" /></a>
 <a href="[https://fb.com/engr.shuvo74886](https://www.facebook.com/engr.shuvo74886/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engrshuvo2003" height="30" width="40" /></a>
-<a href="https://instagram.com/shuvo.das.74886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuvo.das.74886" height="30" width="40" /></a>
+
 <a href="https://dribbble.com/shuvo2003/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shuvo2003" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCEJ0R871tF2PLT27q9azYWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@engrshuvodas" height="30" width="40" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="#" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -72,8 +66,8 @@
 
 
 
-<h3 align="left">Support:</h3>
+<!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/engrshuvodj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="engrshuvodj" /></a><a href="https://ko-fi.com/O5O7OT834"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="O5O7OT834" /></a></p><br><br>
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrshuvodas&show_icons=true&locale=en&layout=compact" alt="engrshuvodas" /></p>
-
+ -->
