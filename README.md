@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [#)
 
-- 👨‍💻 All of my projects are available at [https://engrshuvodas.github.io/me/](https://engrshuvodas.github.io/me/)
+- 👨‍💻 All of my projects are available at [#]#)
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100012917976003](https://www.facebook.com/profile.php?id=100012917976003)
 
