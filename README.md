@@ -48,9 +48,19 @@ Passionate about building efficient software and solving real-world problems thr
 
 ---
 
-## 🌐 Contact
+## 🌐 Connect With Me
 
-📧 avijeetro72@gmail.com  
+📧 Email: avijeetroy072@gmail.com  
+
+<p>
+<a href="https://www.linkedin.com/in/avijeet-kumar-roy">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.facebook.com/share/1DaTMUJWev/">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+</p>
 
 ---
 
