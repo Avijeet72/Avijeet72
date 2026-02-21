@@ -1,47 +1,40 @@
-<h1 align="center">Avijeet Kumar Roy</h1>
-<h3 align="center">Web Designer & Developer • WordPress Specialist</h3>
+<h1 align="center">Hi 👋, I'm Avijeet Kumar Roy</h1>
+<h3 align="center">Aspiring Software Engineer • Problem Solver • Tech Enthusiast</h3>
 
 <p align="center">
-Building fast, modern, and user-focused websites
+Passionate about building efficient software and solving real-world problems through code
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Web Developer from India  
-- 🧠 Specialized in WordPress & Frontend Development  
-- ⚡ Focused on performance, clean UI & SEO  
-- 🌱 Currently learning Python & advanced web technologies  
+- 🎓 Aspiring Software Engineer from India  
+- 🧠 Interested in Algorithms, Data Structures & System Design  
+- 💻 Currently learning Python and Core Computer Science  
+- 🚀 Goal: Build scalable software and impactful products  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,wordpress,mysql,git,github,vscode,figma,python" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📂 What I Build
+## 📚 Currently Learning
 
-✔️ Business Websites  
-✔️ Portfolio Sites  
-✔️ Landing Pages  
-✔️ WordPress Customization  
-✔️ Responsive UI Design  
-
----
-
-## 🌐 Connect
-
-📧 avijeetro72@gmail.com  
-📱 +91 9679403645  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Operating Systems  
+- Database Systems  
+- System Design Basics  
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Coding Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Avijeet72&theme=tokyonight" />
@@ -49,12 +42,18 @@ Building fast, modern, and user-focused websites
 
 ---
 
-## 💬 Philosophy
+## 🎯 Career Goal
 
-> Simplicity is the ultimate sophistication.
+> To become a skilled Software Engineer who builds reliable, scalable, and meaningful software.
+
+---
+
+## 🌐 Contact
+
+📧 avijeetro72@gmail.com  
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider following ⭐
+⭐ Always learning • Always improving ⭐
 </p>
